@@ -1,10 +1,10 @@
 import React from 'react';
-import './Feature.css';
+import './Features.css';
 
-const Feature = () => {
+const Features = () => {
     return(
         <div>
-            Feature
+            Features
         </div>
     )
 }
