@@ -4,7 +4,7 @@ import './Article.css';
 const Article = () => {
     return(
         <div>
-            Article
+            Articles
         </div>
     )
 }
