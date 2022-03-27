@@ -17,7 +17,7 @@ const App = () => {//functional component
             <Possibility />
             <CTA />
             <Blog />
-            <Footer />
+            <Footer /> 
         </div>
     )
 } 

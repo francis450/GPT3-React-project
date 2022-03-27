@@ -22,7 +22,7 @@ a{
     background: var(--gradient-text);
     background-clip: text;
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color: transparent; 
 }
 .section-padding{
     padding: 4rem 6rem;
